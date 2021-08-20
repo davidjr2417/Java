@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-   
+        {
+            "type": "java",
+            "name": "Launch Feeling2",
+            "request": "launch",
+            "mainClass": "Warm_Up.Feeling2",
+            "projectName": "Java_a4f5fa6f"
+        },
         {
             "name": "Attach to Edge",
             "port": 9222,
@@ -12,8 +18,6 @@
             "type": "pwa-msedge",
             "webRoot": "${workspaceFolder}"
         },
-
-
         {
             "type": "java",
             "name": "Launch Current File",
