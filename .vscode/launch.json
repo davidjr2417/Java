@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Conditionals",
+            "request": "launch",
+            "mainClass": "Java_Videos.Conditionals",
+            "projectName": "Java_a4f5fa6f"
+        },
+        {
+            "type": "java",
             "name": "Launch Feeling2",
             "request": "launch",
             "mainClass": "Warm_Up.Feeling2",
