@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Variables",
+            "request": "launch",
+            "mainClass": "Java_Videos.Variables",
+            "projectName": "Java_a4f5fa6f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Java_Videos.Hello",
+            "projectName": "Java_a4f5fa6f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variables",
+            "request": "launch",
+            "mainClass": "Warm_Up.Variables",
+            "projectName": "Java_a4f5fa6f"
+        },
+        {
+            "type": "java",
             "name": "Launch Conditionals",
             "request": "launch",
             "mainClass": "Java_Videos.Conditionals",
